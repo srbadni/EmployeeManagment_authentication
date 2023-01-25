@@ -1,0 +1,17 @@
+body {
+  font-family: Shabnam;
+}
+
+.Toastify__toast {
+  font-family: Shabnam !important;
+  text-align: right !important;
+  font-size: .9em;
+}
+
+.input-group {
+  direction: ltr !important;
+
+  input {
+    text-align: end !important;
+  }
+}

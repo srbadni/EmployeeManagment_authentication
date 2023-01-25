@@ -1,0 +1,5 @@
+{
+  "BASE_URL_AUTHENTICATION": "http://hrapi.tavana.group/authentication",
+  "COMPANY_URL": "http://company.tavana.group",
+  "NAVIGATOR_URL": "http://admin.tavana.group"
+}
